@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.2f6fe944.chunk.css",
-    "main.js": "/static/js/main.5ca96d48.chunk.js",
-    "main.js.map": "/static/js/main.5ca96d48.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.68ea11d8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.68ea11d8.js.map",
-    "static/js/2.d64a7fc6.chunk.js": "/static/js/2.d64a7fc6.chunk.js",
-    "static/js/2.d64a7fc6.chunk.js.map": "/static/js/2.d64a7fc6.chunk.js.map",
+    "main.css": "/static/css/main.c5685c98.chunk.css",
+    "main.js": "/static/js/main.ced274f4.chunk.js",
+    "main.js.map": "/static/js/main.ced274f4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2781e2dc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2781e2dc.js.map",
+    "static/js/2.e96e3edf.chunk.js": "/static/js/2.e96e3edf.chunk.js",
+    "static/js/2.e96e3edf.chunk.js.map": "/static/js/2.e96e3edf.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7986c999f1fe6c1cc9111b1d341df877.js": "/precache-manifest.7986c999f1fe6c1cc9111b1d341df877.js",
+    "precache-manifest.6af132f81b438c3eaf28d045fa2fddfa.js": "/precache-manifest.6af132f81b438c3eaf28d045fa2fddfa.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.2f6fe944.chunk.css.map": "/static/css/main.2f6fe944.chunk.css.map",
+    "static/css/main.c5685c98.chunk.css.map": "/static/css/main.c5685c98.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Lancaster-Uni.png": "/static/media/Lancaster-Uni.a0b864da.png",
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
@@ -35,6 +35,7 @@
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.c24ba791.svg",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.6d325fec.png",
+    "static/media/iiitk_logo.png": "/static/media/iiitk_logo.c350d799.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.29152cf7.jpg",
     "static/media/jsFramework.svg": "/static/media/jsFramework.b05ae5b5.svg",
     "static/media/lancasteruni.png": "/static/media/lancasteruni.2fed46b4.png",
@@ -66,9 +67,9 @@
     "static/media/wqu.png": "/static/media/wqu.e766e6b8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.68ea11d8.js",
-    "static/js/2.d64a7fc6.chunk.js",
-    "static/css/main.2f6fe944.chunk.css",
-    "static/js/main.5ca96d48.chunk.js"
+    "static/js/runtime-main.2781e2dc.js",
+    "static/js/2.e96e3edf.chunk.js",
+    "static/css/main.c5685c98.chunk.css",
+    "static/js/main.ced274f4.chunk.js"
   ]
 }
